@@ -355,11 +355,11 @@
 
 <script>
 
-  import '../src/css/bootstrap.min.css';
-  import '../src/css/font-awesome.min.css';
-  import '../src/css/owl.carousel.min.css';
-  import '../src/css/owl.theme.default.min.css';
-  import '../src/css/tooplate-style.min.css';
+//   import '../src/css/bootstrap.min.css';
+//   import '../src/css/font-awesome.min.css';
+//   import '../src/css/owl.carousel.min.css';
+//   import '../src/css/owl.theme.default.min.css';
+//   import '../src/css/tooplate-style.min.css';
 // import { BootstrapVue, BootstrapVueIcons } from "bootstrap-vue"
 
 // Vue.use(BootstrapVue)
